@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 A.txt
+B.txt
 .gitignore 
